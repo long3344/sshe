@@ -42,7 +42,7 @@ public class UserAction {
 
 	/**
 	 * 注册用户
-	 * @param t
+	 * @param
 	 * @return
 	 */
 	public void reg() {
